@@ -1,13 +1,13 @@
 /*
- * File: 5-printf.c
- * Author: Oludare-Emmanuel063 ALXSWE
+ * File: 	5-printf.c
+ * Author:	Oludare-Emmanuel063 @ALXSWE
  */
 
 #include <stdio.h>
 
 /**
- *main - Prints "with proper grammar, but the outcome is
- *                a piece of art,"
+ * main - Prints "with proper grammar, but the outcome is
+ *                a piece of art," followed by a new line.
  *
  * Return: Always 0.
  */
