@@ -1,1 +1,1 @@
-A compulsory C programming readme
+variables, if, else, while
