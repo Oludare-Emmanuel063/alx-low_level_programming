@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _memcpy - memory area is copied by this function.
- * @n: this is the variable to copy
- * @src: to copy from this variable 
- * @dest: to copy into this variable 
+ * _memcpy - a function that copies memory area.
+ * @n: variable to copy
+ * @src: variable to copy from
+ * @dest: variable to copy to 
  * Return: `dest`
  */
 char *_memcpy(char *dest, char *src, unsigned int n)
